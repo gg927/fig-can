@@ -3,9 +3,9 @@ We invite anyone interested in our project to contribute to the development of t
 # Projects for developers
 These are two big features we'd like to tackle next. Can you help? We welcome your input and help.
 
-We would like to **integrate an image visualization/manipulation API like IIIF** to allow users to capture panels within figures rather than the entire figure as described [here (level 2 compliance)][https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif]. Please see issue #4.
+1. We would like to **integrate an image visualization/manipulation API like IIIF** to allow users to capture panels within figures rather than the entire figure as described [here (level 2 compliance)][https://elifesciences.org/labs/d6044799/dynamically-serving-scientific-images-using-iiif]. Please see issue #4.
 
-We would like to **create domain handlers for more publisher websites or repositories**, such as [PubMed][https://www.ncbi.nlm.nih.gov/pubmed]. The current PMC domain handler would be a great place to start for a handler for PubMed. Please see issue #5.
+2. We would like to **create domain handlers for more publisher websites or repositories**, such as [PubMed][https://www.ncbi.nlm.nih.gov/pubmed]. The current PMC domain handler would be a great place to start for a handler for PubMed. Please see issue #5.
 
 Please also refer to the [issues][https://github.com/re-figure/refigure/issues] for further feature requests.
 
